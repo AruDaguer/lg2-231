@@ -11,6 +11,7 @@ public class Jogador {
         byte[] dados = {dado1.getValorDaFace(), dado2.getValorDaFace()};
         return dados;
 
+
     }
     
 }
