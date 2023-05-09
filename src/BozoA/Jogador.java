@@ -1,5 +1,4 @@
 package BozoA;
-import BozoA.Dado;
 
 public class Jogador {
     public byte[] jojar(){
